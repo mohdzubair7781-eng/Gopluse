@@ -1,0 +1,6 @@
+{
+  "name": "Go Plus - Local Medicine Delivery",
+  "description": "Fast 15-30 minute local medicine and healthcare delivery. Order prescriptions, OTC remedies, first aid, and daily pharmacy essentials right to your doorstep.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
